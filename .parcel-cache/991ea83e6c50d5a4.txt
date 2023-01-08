@@ -1,4 +1,4 @@
-32320
+32324
 31D:\Frontend\will-it-miss\.cache133175515691728861 1
 134D:\Frontend\will-it-miss\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2133175525597765097 1
 77D:\Frontend\will-it-miss\node_modules\cssstyle\lib\properties\paddingRight.js133175509160499069 0
@@ -13,7 +13,7 @@
 71D:\Frontend\will-it-miss\node_modules\date-fns\fp\isSaturday\index.d.ts133175515601478324 0
 75D:\Frontend\will-it-miss\node_modules\parcel-bundler\src\assets\RawAsset.js133175509161349077 0
 63D:\Frontend\will-it-miss\node_modules\toidentifier\package.json133175509154259073 0
-37D:\Frontend\will-it-miss\package.json133176424292460575 0
+37D:\Frontend\will-it-miss\package.json133176580651002172 0
 85D:\Frontend\will-it-miss\node_modules\date-fns\locale\da\_lib\formatDistance\index.js133175515577558326 0
 100D:\Frontend\will-it-miss\node_modules\readdirp\node_modules\is-number\node_modules\kind-of\README.md133175531560964648 0
 125D:\Frontend\will-it-miss\node_modules\parcel-bundler\node_modules\dom-serializer\node_modules\domelementtype\lib\esm\index.js133175531561064624 0
@@ -76,7 +76,7 @@
 77D:\Frontend\will-it-miss\node_modules\stylehacks\types\plugins\bodyEmpty.d.ts133175531816788982 0
 62D:\Frontend\will-it-miss\node_modules\xxhashjs\build\xxhash.js133175555524136061 0
 87D:\Frontend\will-it-miss\node_modules\es-abstract\2021\IsUnclampedIntegerElementType.js133175504972663997 0
-29D:\Frontend\will-it-miss\dist133175740729158581 1
+29D:\Frontend\will-it-miss\dist133176580651172188 1
 51D:\Frontend\will-it-miss\node_modules\is-descriptor133175509154749068 1
 68D:\Frontend\will-it-miss\node_modules\decode-uri-component\readme.md133175509154859073 0
 69D:\Frontend\will-it-miss\node_modules\caniuse-lite\data\regions\TG.js133175509164499073 0
@@ -18548,7 +18548,7 @@
 98D:\Frontend\will-it-miss\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133175531564404625 0
 65D:\Frontend\will-it-miss\node_modules\eslint\lib\rules\no-with.js133175496510577829 0
 76D:\Frontend\will-it-miss\node_modules\date-fns\locale\ta\_lib\formatRelative133175515581598319 1
-51D:\Frontend\will-it-miss\dist\index.975ef6c8.js.map133175740729158581 0
+51D:\Frontend\will-it-miss\dist\index.975ef6c8.js.map133176580651152164 0
 68D:\Frontend\will-it-miss\node_modules\date-fns\esm\fp\secondsToHours133175515597298329 1
 76D:\Frontend\will-it-miss\node_modules\htmlnano\docs\docs\010-introduction.md133175531563714640 0
 69D:\Frontend\will-it-miss\node_modules\htmlnano\docs\docs\020-usage.md133175531564114673 0
@@ -24531,6 +24531,7 @@
 79D:\Frontend\will-it-miss\node_modules\babel-runtime\helpers\class-call-check.js133175509155939071 0
 89D:\Frontend\will-it-miss\node_modules\date-fns\fp\differenceInCalendarYears\index.js.flow133175515558568338 0
 88D:\Frontend\will-it-miss\node_modules\date-fns\fp\differenceInCalendarYears\package.json133175515589818323 0
+52D:\Frontend\will-it-miss\dist\index.d69c46e4.css.map133176435690697988 0
 100D:\Frontend\will-it-miss\node_modules\date-fns\fp\differenceInCalendarWeeksWithOptions\index.js.flow133175515558558322 0
 83D:\Frontend\will-it-miss\node_modules\@parcel\hash\parcel-hash.linux-arm64-gnu.node133175525591795105 0
 71D:\Frontend\will-it-miss\node_modules\date-fns\esm\format\index.js.flow133175515553265353 0
@@ -30644,6 +30645,7 @@
 91D:\Frontend\will-it-miss\node_modules\@parcel\transformer-svg\node_modules\semver\README.md133175525589565294 0
 83D:\Frontend\will-it-miss\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133175525601718023 0
 99D:\Frontend\will-it-miss\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133175525590485304 0
+48D:\Frontend\will-it-miss\dist\index.d69c46e4.css133176435690628001 0
 97D:\Frontend\will-it-miss\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel133175531570674621 1
 111D:\Frontend\will-it-miss\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js133175525590645121 0
 74D:\Frontend\will-it-miss\node_modules\@parcel\transformer-raw\package.json133175525590615283 0
@@ -32190,10 +32192,12 @@
 47D:\Frontend\will-it-miss\node_modules\.bin\uuid133175509167079095 0
 51D:\Frontend\will-it-miss\node_modules\.bin\uuid.cmd133175509167079095 0
 51D:\Frontend\will-it-miss\node_modules\.bin\uuid.ps1133175509167079095 0
-48D:\Frontend\will-it-miss\dist\index.61d3354a.css133175740520223065 0
-52D:\Frontend\will-it-miss\dist\index.61d3354a.css.map133175740520293050 0
-47D:\Frontend\will-it-miss\dist\index.975ef6c8.js133175740729098590 0
-40D:\Frontend\will-it-miss\dist\index.html133175740521083032 0
+47D:\Frontend\will-it-miss\dist\index.1eb35147.js133176435690638007 0
+51D:\Frontend\will-it-miss\dist\index.1eb35147.js.map133176435690708210 0
+48D:\Frontend\will-it-miss\dist\index.61d3354a.css133176580650632186 0
+52D:\Frontend\will-it-miss\dist\index.61d3354a.css.map133176580650652187 0
+47D:\Frontend\will-it-miss\dist\index.975ef6c8.js133176580651112347 0
+40D:\Frontend\will-it-miss\dist\index.html133176580650632186 0
 34D:\Frontend\will-it-miss\.cache\00133175515691068860 1
 34D:\Frontend\will-it-miss\.cache\02133175515693118858 1
 34D:\Frontend\will-it-miss\.cache\07133175515691898860 1

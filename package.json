@@ -5,13 +5,14 @@
   "source": "src/index.html",
   "scripts": {
     "start": "npx parcel",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx parcel build"
+    "test": "node tests/*.js",
+    "build": "npm run test && npx parcel build src/index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^1.2.2",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.31.0",
     "eslint-plugin-react": "^7.31.11",
@@ -30,5 +31,4 @@
     "react-async-hook": "^4.0.0",
     "react-dom": "^18.2.0"
   }
-  
 }
